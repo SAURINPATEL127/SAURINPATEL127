@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SAURINPATEL127
+- 👋 Hi, I’m Saurin Patel - Quality Assruance - Automation Engineer
 - 👀 I’m interested in Java 
 - 🌱 I’m currently learning Java and DSA
 - 💞️ I’m looking to collaborate on ...
