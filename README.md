@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Saurin Patel - Quality Assruance - Automation Engineer
-- 👀 I’m interested in Java 
-- 🌱 I’m currently learning Java and DSA
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Automation Testing
+- 🌱 I’m currently into Java and DSA
 - 📫 Reach me thru the LinkedIn- https://www.linkedin.com/in/saurin-p-9785b9b4/ 
 
 <!---
